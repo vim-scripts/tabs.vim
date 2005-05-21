@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1287
+
+Adds a special "tab line" at the bottom of Vim main window. Make a tab for the current buffer by pressing \t. The tab gets highlighted when the buffer is activated. Switch between tabs by pressing \1, \2, ..., \9.
+See detailed instructions at the top of the script's source.
