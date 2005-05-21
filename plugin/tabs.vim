@@ -198,7 +198,7 @@ fun! <SID>UpdateTabs()
         let skiptab = 1
       endif
       if skiptab == 0
-        let c = cwhich
+        let c = c + 1
         if i == s:curbuf
           let s:curtab = c
         endif
